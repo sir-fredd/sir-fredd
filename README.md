@@ -1,5 +1,5 @@
 - 👋 I’m @sir-fredd
-- 👀 I’m interested in web development 
+- 👀 I’m interested in website design and web development 
 - 💞️ I’m looking to collaborate on html,css and js.
 - 📫 sirrfrederick@gmail.com
 
